@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">flexib_UI_fragment_layout</string>
+    <string-array name="topics">
+        <item>jonjones</item>
+        <item>rodrigo</item>
+        <item>andre</item>
+        <item>dudu</item>
+        <item>rotedsão</item>
+    </string-array>
+    <string-array name="discription">
+        <item>ambulante e predador sexual</item>
+        <item>pega uber e caçador de branquinhas</item>
+        <item>design que quer sair do armario</item>
+        <item>mestre das goibas do nordeste</item>
+        <item>avassalador de cabaços dos nubs do CS</item>
+    </string-array>
+</resources>
